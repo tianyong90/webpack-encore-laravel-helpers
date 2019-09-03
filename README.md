@@ -13,7 +13,7 @@ This package provides webpack-encore helpers for Laravel.
 Install the package with Composer:
 
 ```bash
-composer require tianyong90/webapck-encore-laravel-helpers
+composer require tianyong90/webpack-encore-laravel-helpers
 ```
 
 ## License
