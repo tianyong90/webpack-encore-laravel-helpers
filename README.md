@@ -1,9 +1,9 @@
 # WebpackEncore Laravel Helpers
 
-<a href="https://travis-ci.org/tianyong90/webapck-encore-laravel-helpers"><img src="https://travis-ci.org/tianyong90/webapck-encore-laravel-helpers.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/tianyong90/webapck-encore-laravel-helpers"><img src="https://poser.pugx.org/tianyong90/webapck-encore-laravel-helpers/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/tianyong90/webapck-encore-laravel-helpers"><img src="https://poser.pugx.org/tianyong90/webapck-encore-laravel-helpers/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/tianyong90/webapck-encore-laravel-helpers"><img src="https://poser.pugx.org/tianyong90/webapck-encore-laravel-helpers/license.svg" alt="License"></a>
+[![Latest Stable Version](https://poser.pugx.org/tianyong90/webpack-encore-laravel-helpers/v/stable)](https://packagist.org/packages/tianyong90/webpack-encore-laravel-helpers)
+[![Latest Unstable Version](https://poser.pugx.org/tianyong90/webpack-encore-laravel-helpers/v/unstable)](https://packagist.org/packages/tianyong90/webpack-encore-laravel-helpers)
+[![Total Downloads](https://poser.pugx.org/tianyong90/webpack-encore-laravel-helpers/downloads)](https://packagist.org/packages/tianyong90/webpack-encore-laravel-helpers)
+[![License](https://poser.pugx.org/tianyong90/webpack-encore-laravel-helpers/license)](https://packagist.org/packages/tianyong90/webpack-encore-laravel-helpers)
 
 This package provides webpack-encore helpers for Laravel.
 
