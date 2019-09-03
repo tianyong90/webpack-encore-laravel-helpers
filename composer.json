@@ -1,0 +1,41 @@
+{
+    "name": "tianyong90/webpack-encore-laravel-helpers",
+    "description": "Provides webpack-encore helpers for Laravel.",
+    "keywords": ["webpack-encore", "laravel", "helpers"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tianyong90",
+            "email": "tianyong0316@gmail.com"
+        },
+    ],
+    "require": {
+        "php": ">=7.1.3",
+        "illuminate/support": "~5.8.0|^6.0|^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    },
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "optimize-autoloader": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
