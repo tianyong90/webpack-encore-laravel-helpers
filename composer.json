@@ -7,7 +7,7 @@
         {
             "name": "tianyong90",
             "email": "tianyong0316@gmail.com"
-        },
+        }
     ],
     "require": {
         "php": ">=7.1.3",
