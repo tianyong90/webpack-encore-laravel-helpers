@@ -7,7 +7,7 @@ if (! function_exists('encore_entry_link_tags')) {
      * @param  string  $entryName
      * @return HtmlString
      */
-    function encore_entry_link_tags(string $entryName): HtmlString
+        function encore_entry_link_tags(string $entryName): HtmlString
     {
         $entryPointsFile = public_path('js/entrypoints.json');
 
